@@ -1,11 +1,3 @@
-/*
-Course: Problem Solving and Programming
-Collage: Artificial Intelligence (CAI)
-Course introducer: Prof. M. El-Habrouk
-Teaching Assistants:  Eng. Nagy K. Aly, Eng. Salma Mohamed, Eng. Aya Abdelhamid,
-Eng. Aya Hegazy Project: Cashier System for a Cafeteria in C Made by: Aly Ahmed
-Lotfy, Reg no. 221000412  (M3) and & Omar Ghanem, Reg no. 221002373  (S)
-*/
 
 // Libraries
 #include <errno.h>  //to save check in text file
